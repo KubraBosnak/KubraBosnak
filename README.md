@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kübra BOŞNAK</h1>
 <h3 align="center">A curious .NET developer from Turkey</h3>
-
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kubrabosnak&label=Profile%20views&color=0e75b6&style=flat" alt="kubrabosnak" /> </p>
-<img align="right" alt="Coding" width=400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif">
+
 - 🔭 I’m currently working on [Sayax](http://www.sayax.com.tr/index-tr.html)
 
 - 🌱 I’m currently learning **.Net, Sql, HTML, JavaScript**
