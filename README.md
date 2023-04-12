@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kübra BOŞNAK</h1>
 <h3 align="center">A curious .NET developer from Turkey</h3>
-<img align="right" alt="Coding" width=400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kubrabosnak&label=Profile%20views&color=0e75b6&style=flat" alt="kubrabosnak" /> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kubrabosnak&label=Profile%20views&color=0e75b6&style=flat" alt="kubrabosnak" /> </p>
+<img align="right" alt="Coding" width=400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif">
 - 🔭 I’m currently working on [Sayax](http://www.sayax.com.tr/index-tr.html)
 
 - 🌱 I’m currently learning **.Net, Sql, HTML, JavaScript**
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/saziyekubrabosnak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saziyekubrabosnak/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/saziyekubrabosnak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saziyekubrabosnak" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
